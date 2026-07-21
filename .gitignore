@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Application runtime data
+data/
+*.db
+*.sqlite
+*.sqlite3
+logs.log
+
+# Cython build artifacts (rebuildable via setup.py)
+build/
+*.c
+
+# Env / secrets
+.env
+.env.local
+.env.*.local
+app.env
