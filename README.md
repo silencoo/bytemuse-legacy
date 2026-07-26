@@ -1,4 +1,4 @@
-# 这是byte-muse的legacy版本未加密代码
+byte-muse的legacy版本未加密代码,从docker内提取
 
 # ByteMuse
 
@@ -94,4 +94,3 @@ bytemuse/
 ## License
 
 Private / All rights reserved.
-
