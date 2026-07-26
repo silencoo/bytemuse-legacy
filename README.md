@@ -1,4 +1,4 @@
-# ByteMuse
+# 这是byte-muse的legacy版本未加密代码：ByteMuse
 
 > 自动化 PT 站点订阅与媒体库管理工具 / An automated subscription & media-library orchestration tool for PT sites.
 
